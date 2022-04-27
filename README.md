@@ -13,5 +13,6 @@
 ### 1 этап
 Изучение примеров с официального сайта
 
-## Демо
+## Примеры
+### Работа библиотеки [Detectron](https://github.com/facebookresearch/Detectron) от Facebook
 ![](https://i.vas3k.ru/7rz.jpg)
