@@ -9,6 +9,8 @@
 
 - Библиотека для Python TensorFlow (она одна из самых популярных для этого направления, с кучей примеров и работающая в Collab)
 
+- [Туториал с официального сайта TensorFlow](https://www.tensorflow.org/tutorials?hl=ru)
+
 ## Работа
 ### 1 этап
 Изучение примеров с официального сайта
@@ -16,3 +18,5 @@
 ## Примеры
 ### Работа библиотеки [Detectron](https://github.com/facebookresearch/Detectron) от Facebook
 ![](https://i.vas3k.ru/7rz.jpg)
+### [Статья про машинное обучение](https://vas3k.ru/blog/machine_learning/)
+![](https://i.vas3k.ru/7sc.jpg)
