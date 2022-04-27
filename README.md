@@ -15,8 +15,8 @@
 ### 1 этап
 Изучение примеров с официального сайта
 
-## Примеры
-### Работа библиотеки [Detectron](https://github.com/facebookresearch/Detectron) от Facebook
+## Принцып работы
+### Пример из библиотеки [Detectron](https://github.com/facebookresearch/Detectron) от Facebook
 ![](https://i.vas3k.ru/7rz.jpg)
 ### Пример из [статьи](https://vas3k.ru/blog/machine_learning/) про машинное обучение
 ![](https://i.vas3k.ru/7sc.jpg)
