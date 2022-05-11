@@ -1,5 +1,4 @@
-# Использование свёрточных сетей для классификации изображений
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyabikupil.ru%2Ffiles%2Farticle%2F1588951284_2032_mini4.jpg&f=1&nofb=1)
+# ![Использование свёрточных сетей для классификации изображений](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyabikupil.ru%2Ffiles%2Farticle%2F1588951284_2032_mini4.jpg&f=1&nofb=1)
 
 ## Цель
 Обучить нейросеть, которая может распознавать объекты на картинке с помощью библиотеки ***TensorFlow***
