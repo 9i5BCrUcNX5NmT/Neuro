@@ -30,7 +30,7 @@
 *При открытии ноутбуков(файл.ipynb) из  пропускаются пункты 1 и 2*
 ### Через Google Colab:
 1. Зайти на [сайт](colab.research.google.com/)
-2. После загрузки нажать на кнопку 'GitHub' [](https://ibb.co/6chST8R)
+2. После загрузки нажать на кнопку 'GitHub' [](https://i.ibb.co/bjhVCFg/2022-05-16-163045.png)
 ### Локально:
 1. Установить Python с [официального сайта](https://www.python.org/)
 2. Установить jupyter-notebook с [официального сайта](https://jupyter.org/install)
