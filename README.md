@@ -27,14 +27,12 @@
 ![](https://i.vas3k.ru/7sc.jpg)
 
 ## Как использовать:
-*При открытии ноутбуков(файл.ipynb) из  пропускаются пункты 1 и 2*
 ### Через Google Colab:
 1. Зайти на [сайт](colab.research.google.com/)
 2. После загрузки нажать на кнопку GitHub ![](https://ltdfoto.ru/images/2022/05/16/SNIMOK-EKRANA-2022-05-16-163045.png)
 3. Затем вставить [ссылку](https://github.com/9i5BCrUcNX5NmT/Neuro.git) на репозиторий в поле поиска и нажать кнопку ![](https://ltdfoto.ru/images/2022/05/16/SNIMOK-EKRANA-2022-05-16-164255.png)
 4. Появятся все ноутбуки репозитория ![](https://ltdfoto.ru/images/2022/05/16/SNIMOK-EKRANA-2022-05-16-164459.png)
 5. Теперь любой из них можно запустить и *Наслаждаться доступно объяснённой информацией*
-
 ### Локально:
 1. Установить Python с [официального сайта](https://www.python.org/)
 2. Установить jupyter-notebook с [официального сайта](https://jupyter.org/install)
